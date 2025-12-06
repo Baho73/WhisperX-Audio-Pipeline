@@ -1,0 +1,50 @@
+# Models and cache
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.aac
+
+# Output directories (transcription results)
+output_*/
+input/
+
+# Old/archived files
+OLD/
+
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
