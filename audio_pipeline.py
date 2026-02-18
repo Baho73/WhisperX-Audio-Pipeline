@@ -49,7 +49,7 @@ class Config:
     
     # === HUGGING FACE ТОКЕН ===
     # Получите на https://huggingface.co/settings/tokens
-    HF_TOKEN = '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'             # Замените на ваш токен!
+    HF_TOKEN = 'hf_YOUR_TOKEN_HERE'             # Замените на ваш токен!
     
     # === НАСТРОЙКИ WHISPER ===
     WHISPER_MODEL = "large-v3"                   # "large-v3", "medium", "small", "base"
