@@ -48,3 +48,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# IDE (Cursor)
+.cursor/
+.cursorrules
+
+# Claude
+.claude/
